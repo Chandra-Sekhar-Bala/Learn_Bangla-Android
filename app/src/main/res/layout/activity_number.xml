@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#EEEDE6A4">
+<!--    android:background="@color/orange">-->
+<!--    <GridView-->
+<!--        android:id="@+id/grid"-->
+<!--        android:layout_width="416dp"-->
+<!--        android:layout_height="731dp"-->
+<!--        android:numColumns="3"-->
+<!--        tools:layout_editor_absoluteX="-4dp"-->
+<!--        tools:layout_editor_absoluteY="0dp" />-->
+    <ListView
+        android:id="@+id/number_list"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
