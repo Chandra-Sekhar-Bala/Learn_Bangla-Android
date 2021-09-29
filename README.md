@@ -2,7 +2,7 @@
 Learn Bangla android application
 This app is to help to improve your BNGALI language.
 
-Features
+<font size="6"> **Features** </font>
    * Sliding Effect
    * Fast Response
    * Pronunciation 
