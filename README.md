@@ -1,6 +1,6 @@
 # Learn_Bangla-Android
-Learn Bangla android application
-This app will help you to improve BNGALI language.
+Learn Bangla android application,
+this app will help you to improve BNGALI language.
 
 # Features
    * Fast Response
